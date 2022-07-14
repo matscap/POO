@@ -1,0 +1,62 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-8-oracle/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.11.jar:/usr/share/bluej/hamcrest-core-1.3.jar:/usr/share/bluej/lang-stride.jar:/usr/share/bluej/userlib/pi4j-core.jar:/usr/share/bluej/userlib/pi4j-service.jar:/usr/share/bluej/userlib/pi4j-device.jar:/usr/share/bluej/userlib/pi4j-gpio-extension.jar:/home/rafa/Desktop/ProJava
+-d
+/home/rafa/Desktop/ProJava/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/home/rafa/Desktop/ProJava/Projeto.java
+<---- end of javadoc command ---->
+Loading source file /home/rafa/Desktop/ProJava/Projeto.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_171
+Building tree for all the packages and classes...
+Generating /home/rafa/Desktop/ProJava/doc/Projeto.html...
+/home/rafa/Desktop/ProJava/Fatura.java:53: error: illegal start of expression
+        } while (q!='q' && q!= 'Q');
+        ^
+/home/rafa/Desktop/ProJava/Fatura.java:53: error: ';' expected
+        } while (q!='q' && q!= 'Q');
+         ^
+/home/rafa/Desktop/ProJava/Fatura.java:53: error: not a statement
+        } while (q!='q' && q!= 'Q');
+                ^
+/home/rafa/Desktop/ProJava/Fatura.java:54: error: while expected
+   }
+    ^
+/home/rafa/Desktop/ProJava/Fatura.java:56: error: '.class' expected
+   public int getNFatura(){
+              ^
+/home/rafa/Desktop/ProJava/Fatura.java:56: error: ';' expected
+   public int getNFatura(){
+                        ^
+/home/rafa/Desktop/ProJava/Fatura.java:56: error: illegal start of expression
+   public int getNFatura(){
+                         ^
+/home/rafa/Desktop/ProJava/Fatura.java:56: error: ';' expected
+   public int getNFatura(){
+                          ^
+Generating /home/rafa/Desktop/ProJava/doc/package-frame.html...
+Generating /home/rafa/Desktop/ProJava/doc/package-summary.html...
+Generating /home/rafa/Desktop/ProJava/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /home/rafa/Desktop/ProJava/doc/allclasses-frame.html...
+Generating /home/rafa/Desktop/ProJava/doc/allclasses-noframe.html...
+Generating /home/rafa/Desktop/ProJava/doc/index.html...
+8 errors
