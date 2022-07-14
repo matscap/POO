@@ -1,0 +1,27 @@
+Estão 3 Contribuintes Individuais e 1 Empresarial em registo.
+
+Contribuintes Individuais:
+
+--Numero Fiscal: 123456789
+--Password: blabla
+
+--Numero Fiscal: 111111111
+--Password: blabla
+
+--Numero Fiscal: 222222222
+--Password: blabla
+
+Os Contribuintes '111111111' e '222222222' pertencem ao agregado familiar do contribuinte '123456789'.
+Cada um tem uma fatura emitida na empresa com o contribuinte '999999999', excepto o contribuinte '123456789' que tem duas (uma por classificar e outra já classificada).
+
+No dia da apresentação de modo a mostrar as funcionalidades todas faremos o registo de mais contribuintes.
+
+Contribuinte Empresarial:
+
+--Numero Fiscal: 999999999
+--Password: blabla
+
+Conta do Administrador:
+
+--'Numero fiscal': admin
+--Password: 12345
