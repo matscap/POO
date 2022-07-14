@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=global
+comment1.params=
+comment1.target=java.util.Map\ getEmp()
+comment2.params=
+comment2.target=java.util.Map\ getInd()
+comment3.params=hee
+comment3.target=void\ setEmp(java.util.Map)
+comment4.params=hii
+comment4.target=void\ setInd(java.util.Map)
+comment5.params=nome
+comment5.target=void\ guardaEstado(java.lang.String)
+comment6.params=filename
+comment6.target=global\ leEstado(java.lang.String)
+numComments=7
